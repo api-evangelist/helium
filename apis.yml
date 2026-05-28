@@ -1,0 +1,32 @@
+aid: helium
+name: Helium
+description: "Helium is a global, distributed network of Hotspots that create public, long-range wireless coverage"
+url: https://docs.helium.com/api/blockchain/introduction/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Blockchain"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Blockchain
+  - Public APIs
+apis:
+  - name: Helium
+    description: "Helium is a global, distributed network of Hotspots that create public, long-range wireless coverage"
+    humanURL: https://docs.helium.com/api/blockchain/introduction/
+    baseURL: https://docs.helium.com/api/blockchain/introduction/
+    tags:
+      - Blockchain
+    properties:
+      - type: Documentation
+        url: https://docs.helium.com/api/blockchain/introduction/
+common:
+  - type: Website
+    url: https://docs.helium.com/api/blockchain/introduction/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
