@@ -1,4 +1,16 @@
 aid: helium
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/helium.png
 name: Helium
 description: "Helium is a global, distributed network of Hotspots that create public, long-range wireless coverage"
 url: https://docs.helium.com/api/blockchain/introduction/
